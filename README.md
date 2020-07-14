@@ -15,4 +15,4 @@ Para más información, visita mi pagina web personal: [nahuelbrandan.com](https
 
 ---
 
->> “Software is a great combination between artistry and engineering.” <br>Bill Gates
+>> You can mass-produce hardware; you cannot mass-produce software; you cannot mass-produce the human mind. <br>— Michio Kaku

@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola! 👋:blush:
 
-<!--
-**nahuelbrandan/nahuelbrandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Nahuel Brandán, soy Desarrollador de Software Backend, especializandome en _Python_.
 
-Here are some ideas to get you started:
+Soy de Córdoba - Argentina. Me recibí de Analista de Computación por la [FaMAF-UNC](https://www.famaf.unc.edu.ar/) y actualmente cuento con 2 años de experiencia en al industria del software, trabajando para la empresa [IncluIT](https://incluit.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy aprendiendo sobre _Machine Learning_ y _Data Science_ de manera autodidacta.
+
+ Para más información, visita mi pagina web personal: [nahuelbrandan.com](https://www.nahuelbrandan.com/)
+
+### Contacto 📲
+
+* [LinkedIn](https://www.linkedin.com/in/nahuelbrandan)
+* <a href="mailto:nahuelbrandan123@gmail.com?Subject=Presentacion,%20interesado%20desde%20tu%20Github">Email</a>

@@ -1,12 +1,14 @@
 ### Hola! :blush:
 
-Mi nombre es Nahuel Brandán, soy Desarrollador de Software Backend, especializado en **Python**.
+Soy Nahuel Brandán, soy Desarrollador de Software Backend, especializado en **Python**.
 
-Soy de Córdoba - Argentina. Me recibí de Analista de Computación por la [FaMAF-UNC](https://www.famaf.unc.edu.ar/) y actualmente cuento con 2 años de experiencia en al industria del software, trabajando para la empresa [IncluIT](https://incluit.com/).
+Amante de la informática, el cine, la literatura, el ajedrez, entre otras áreas.
 
 Soy muy agradecido de poder trabajar en un área tan apasionante.
 
-[website](https://www.nahuelbrandan.com)
+---
+
+Pueden conocer un poco más de mi accediendo a [nahuelbrandan.com](https://www.nahuelbrandan.com)
 
 ---
 

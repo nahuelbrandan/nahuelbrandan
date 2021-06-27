@@ -1,15 +1,19 @@
+![banner](./resources/banner.png)
+
 ### Hola! :blush:
 
-Soy Nahuel Brandán, soy Desarrollador de Software Backend, especializado en **Python**.
+Soy Nahuel Brandán, Desarrollador de Software Backend, especializado en **Python**.
 
-Amante de la informática, el cine, la literatura, el ajedrez, entre otras áreas.
+Amante del desarrollo, de las buenas prácticas, siempre en proceso de mejora.
 
 Soy muy agradecido de poder trabajar en un área tan apasionante.
 
----
-
-Pueden conocer un poco más de mi accediendo a [nahuelbrandan.com](https://www.nahuelbrandan.com)
+_Dame un problema en el cual ocuparme, yo me encargo de resolverlo._
 
 ---
 
->> You can mass-produce hardware; you cannot mass-produce software; you cannot mass-produce the human mind. <br>— Michio Kaku
+### Perfiles
+
+* **Website**: [nahuelbrandan.com](https://www.nahuelbrandan.com)
+* **LinkedIn**: [@nahuelbrandan](https://www.linkedin.com/in/nahuelbrandan/)
+* **Platzi - *Educación online efectiva***: [@neobraf](https://platzi.com/p/neobraf/)

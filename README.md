@@ -70,13 +70,13 @@ Give me a problem to deal with, I'll take care of solving it.
 ## 😎 Profiles
 
 <p align="center">
-  <a href="https://www.nahuelbrandan.com/"><img src="https://image.flaticon.com/icons/png/512/2301/2301129.png" alt="Website" width="50px"/></a>
+  <a href="https://www.nahuelbrandan.com/"><img src="https://image.flaticon.com/icons/png/512/841/841364.png" alt="Website" width="50px"/></a>
   &emsp;  &emsp;
-  <a href="https://github.com/nahuelbrandan"><img src="https://image.flaticon.com/icons/png/512/733/733609.png" alt="GitHub" width="50px"/></a>
+  <a href="https://github.com/nahuelbrandan"><img src="https://image.flaticon.com/icons/png/512/733/733553.png" alt="GitHub" width="50px"/></a>
   &emsp;  &emsp;
-  <a href="https://linkedin.com/in/nahuelbrandan"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="LinkedIn" width="50px"/></a>
+  <a href="https://linkedin.com/in/nahuelbrandan"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="50px"/></a>
   &emsp;  &emsp;
-  <a href="https://stackoverflow.com/users/6125910/neobraf"><img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-1-432472.png" alt="Youtube" width="50px"/></a>
+  <a href="https://stackoverflow.com/users/6125910/neobraf"><img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" alt="Youtube" width="50px"/></a>
 
 </p>
 

@@ -1,13 +1,13 @@
 ![banner](./resources/banner.png)
 
 <h1 align="center">Hi , I'm Nahuel Brandán 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="">
+</h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=
-        Backend+Software+Developer;
-        Specialized+in+Python+Ecosystem;
-        Never%20stopping%20learning&center=true&width=500&height=50"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Developer;Specialized+in+Python+Ecosystem;Never%20stopping%20learning&center=true&width=500&height=50" alt="bio description">
+  </a>
 </p>
 
 <hr/>
@@ -20,7 +20,6 @@ Resolutive. Fortunate. Never stopping learning.
 Give me a problem to deal with, I'll take care of solving it.
 </h4>
 
-<hr/>
 
 ## 🛠️ Skills
 
@@ -71,7 +70,6 @@ Give me a problem to deal with, I'll take care of solving it.
 </p>
 
 <br/>
-<hr/>
 
 ## 😎 Profiles
 
@@ -87,5 +85,3 @@ Give me a problem to deal with, I'll take care of solving it.
 </p>
 
 <br/>
-<hr/>
-<hr/>

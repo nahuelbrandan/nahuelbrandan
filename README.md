@@ -10,8 +10,6 @@
   </a>
 </p>
 
-<hr/>
-
 <h4 align="center">
 I am Backend Software Developer, specialized in Python ecosystem. 
 

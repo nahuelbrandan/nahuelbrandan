@@ -11,7 +11,7 @@
 </p>
 
 <h4 align="center">
-I am Backend Software Developer, specialized in Python ecosystem.<br><br>
+I'm Backend Software Developer, specialized in Python ecosystem.<br><br>
 Resolutive. Fortunate. Never stopping learning.<br><br>
 Give me a problem to deal with, I'll take care of solving it.
 </h4>

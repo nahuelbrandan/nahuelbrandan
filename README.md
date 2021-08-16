@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Developer;Specialized+in+Python+Ecosystem;Never%20stopping%20learning&center=true&width=500&height=50" alt="bio description">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Developer;Specialized+in+Python+ecosystem;Never%20stopping%20learning&center=true&width=500&height=50" alt="bio description">
   </a>
 </p>
 

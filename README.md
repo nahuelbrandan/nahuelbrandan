@@ -29,8 +29,8 @@ Give me a problem to deal with, I'll take care of solving it.
     <img alt="Django" src="https://img.shields.io/badge/Django%20-36926F.svg?logo=django">
   </a> 
   &emsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-3E609E.svg?logo=flask">
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-3E609E.svg?logo=fastapi">
   </a> 
   &emsp;
   <a href="https://www.cprogramming.com/" target="_blank"> 

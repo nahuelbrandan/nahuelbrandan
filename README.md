@@ -11,7 +11,8 @@
 </p>
 
 <h4 align="center">
-I'm Backend Software Developer, specialized in Python ecosystem.<br><br>
+I'm Backend Software Developer.<br><br>
+Specialized in Python ecosystem, with more than 3 years of experience.<br><br>
 Resolutive. Fortunate. Never stopping learning.<br><br>
 Give me a problem to deal with, I'll take care of solving it.
 </h4>
@@ -70,9 +71,7 @@ Give me a problem to deal with, I'll take care of solving it.
 ## 😎 Profiles
 
 <p align="center">
-  <a href="https://www.nahuelbrandan.com/"><img src="https://i.postimg.cc/8CmzSSsR/world-wide-web.png" alt="Website" width="50px"/></a>
-  &emsp;  &emsp;
-  <a href="https://github.com/nahuelbrandan"><img src="https://i.postimg.cc/SNC7CYCJ/github.png" alt="GitHub" width="50px"/></a>
+  <a href="https://www.nahuelbrandan.com/"><img src="https://www.nahuelbrandan.com/assets/img/logo2.png" alt="Website" width="50px"/></a>
   &emsp;  &emsp;
   <a href="https://linkedin.com/in/nahuelbrandan"><img src="https://i.postimg.cc/15DtHwP7/linkedin.png" alt="LinkedIn" width="50px"/></a>
   &emsp;  &emsp;

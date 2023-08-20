@@ -28,8 +28,8 @@ Give me a problem to deal with, I'll take care of solving it.
   &emsp;  &emsp;
   <a href="https://github.com/nahuelbrandan">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./resources/github-mark/github-mark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./resources/github-mark/github-mark-white.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./resources/github-mark/github-mark-white.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./resources/github-mark/github-mark.svg">
       <img src="./resources/github-mark/github-mark.png" alt="GitHub" width="50px">
     </picture>
   </a>

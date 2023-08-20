@@ -26,7 +26,13 @@ Give me a problem to deal with, I'll take care of solving it.
   &emsp;  &emsp;
   <a href="https://stackoverflow.com/users/6125910/neobraf"><img src="https://i.postimg.cc/MGHqhQ2S/stack-overflow.png" alt="Stackoverflow" width="50px"/></a>
   &emsp;  &emsp;
-  <a href="https://github.com/nahuelbrandan"><img src="https://www.nahuelbrandan.com/assets/img/home/github.svg" alt="GitHub" width="50px"/></a>
+  <a href="https://github.com/nahuelbrandan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./resources/github-mark/github-mark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./resources/github-mark/github-mark-white.svg">
+      <img src="./resources/github-mark/github-mark.png" alt="GitHub" width="50px">
+    </picture>
+  </a>
 </p>
 
 ## 🛠️ Skills

@@ -12,7 +12,7 @@
 
 <h4 align="center">
 I'm Backend Software Developer.<br><br>
-Specialized in Python ecosystem, with more than 3 years of experience.<br><br>
+Specialized in Python ecosystem, with more than 4 years of experience.<br><br>
 Resolutive. Fortunate. Never stopping learning.<br><br>
 Give me a problem to deal with, I'll take care of solving it.
 </h4>

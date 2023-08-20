@@ -13,11 +13,9 @@
 <h4 align="center">
 Backend Software Developer.<br><br>
 Specialized in Python ecosystem, with more than 4 years of experience.<br><br>
-Resolutive. Fortunate. Never stopping learning.<br><br>
-Give me a problem to deal with, I'll take care of solving it.
+Resolutive. Fortunate. Never stopping learning.<br><br><hr>
+Give me a problem to deal with, I'll take care of solving it.<hr>
 </h4>
-
----
 
 <p align="center">
   <a href="https://www.nahuelbrandan.com/"><img src="https://www.nahuelbrandan.com/assets/img/logo2.png" alt="Website" width="50px"/></a>

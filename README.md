@@ -6,15 +6,17 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Developer;Specialized+in+Python+ecosystem;Never%20stopping%20learning&center=true&width=500&height=50" alt="bio description">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Developer;Specialized+in+the+Python+ecosystem;Never%20stopping%20learning&center=true&width=500&height=50" alt="bio description">
   </a>
 </p>
 
 <h4 align="center">
 Backend Software Developer.<br><br>
-Specialized in Python ecosystem, with more than 4 years of experience.<br><br>
-Resolutive. Fortunate. Never stopping learning.<br><br><hr>
-Give me a problem to deal with, I'll take care of solving it.<hr>
+Specialized in the Python ecosystem, with more than 4 years of experience.<br><br>
+Resolutive. Fortunate. Never stopping learning.<br><br>
+<hr>
+Give me a problem to deal with, I'll take care of solving it.
+<hr>
 </h4>
 
 <p align="center">

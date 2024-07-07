@@ -10,14 +10,16 @@
   </a>
 </p>
 
-<h4 align="center">
+<p align="center" style="font-weight: bold">
 Backend Software Developer.<br><br>
 Specialized in the Python ecosystem, with more than 4 years of experience.<br><br>
 Resolutive. Fortunate. Never stopping learning.<br><br>
+</p>
 <hr>
+<p align="center" style="font-weight: bold">
 Give me a problem to deal with, I'll take care of solving it.
+</p>
 <hr>
-</h4>
 
 <p align="center">
   <a href="https://www.nahuelbrandan.com/"><img src="https://www.nahuelbrandan.com/assets/img/logo2.png" alt="Website" width="50px"/></a>

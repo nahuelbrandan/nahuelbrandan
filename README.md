@@ -22,17 +22,11 @@ Give me a problem to deal with, I'll take care of solving it.
 <hr>
 
 <p align="center">
-  <a href="https://www.nahuelbrandan.com/" target="_blank">
-    <img src="https://www.nahuelbrandan.com/assets/img/logo2.png" alt="Website" width="50px"/>
-  </a>
+  <a href="https://www.nahuelbrandan.com/" target="_blank"><img src="https://www.nahuelbrandan.com/assets/img/logo2.png" alt="Website" width="50px"/></a>
   &emsp;  &emsp;
-  <a href="https://linkedin.com/in/nahuelbrandan" target="_blank">
-    <img src="https://i.postimg.cc/15DtHwP7/linkedin.png" alt="LinkedIn" width="50px"/>
-  </a>
+  <a href="https://linkedin.com/in/nahuelbrandan" target="_blank"><img src="https://i.postimg.cc/15DtHwP7/linkedin.png" alt="LinkedIn" width="50px"/></a>
   &emsp;  &emsp;
-  <a href="https://stackoverflow.com/users/6125910/neobraf" target="_blank">
-    <img src="https://i.postimg.cc/MGHqhQ2S/stack-overflow.png" alt="Stackoverflow" width="50px"/>
-  </a>
+  <a href="https://stackoverflow.com/users/6125910/neobraf" target="_blank"><img src="https://i.postimg.cc/MGHqhQ2S/stack-overflow.png" alt="Stackoverflow" width="50px"/></a>
   &emsp;  &emsp;
   <a href="https://github.com/nahuelbrandan" target="_blank">
     <picture>
@@ -47,9 +41,7 @@ Give me a problem to deal with, I'll take care of solving it.
 
 <p align="left"> 
   &emsp; 
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-3770A0.svg?logo=python&logoColor=white">
-  </a>
+   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-3770A0.svg?logo=python&logoColor=white"></a>
   &emsp;
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img alt="Django" src="https://img.shields.io/badge/Django%20-36926F.svg?logo=django">

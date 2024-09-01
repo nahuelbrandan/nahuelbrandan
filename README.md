@@ -12,7 +12,7 @@
 
 <p align="center" style="font-weight: bold">
 Backend Software Developer.<br><br>
-Specialized in the Python ecosystem, with more than 4 years of experience.<br><br>
+Specialized in the Python ecosystem, with more than 5 years of experience.<br><br>
 Resolutive. Fortunate. Never stopping learning.<br><br>
 </p>
 <hr>

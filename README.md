@@ -22,11 +22,7 @@ Give me a problem to deal with, I'll take care of solving it.
 <hr>
 
 <p align="center">
-  <a href="https://www.nahuelbrandan.com/" target="_blank"><img src="https://www.nahuelbrandan.com/assets/img/logo2.png" alt="Website" title="Website" width="50px"/></a>
-  &emsp;  &emsp;
   <a href="https://linkedin.com/in/nahuelbrandan" target="_blank"><img src="https://i.postimg.cc/15DtHwP7/linkedin.png" alt="LinkedIn" title="LinkedIn" width="50px"/></a>
-  &emsp;  &emsp;
-  <a href="https://stackoverflow.com/users/6125910/neobraf" target="_blank"><img src="https://i.postimg.cc/MGHqhQ2S/stack-overflow.png" alt="Stackoverflow" title="Stackoverflow" width="50px"/></a>
   &emsp;  &emsp;
   <a href="https://github.com/nahuelbrandan" target="_blank">
     <picture>
@@ -35,6 +31,9 @@ Give me a problem to deal with, I'll take care of solving it.
       <img src="./resources/github-mark/github-mark.png" alt="GitHub" title="GitHub" width="50px">
     </picture>
   </a>
+  &emsp;  &emsp;
+  <a href="https://www.nahuelbrandan.com/" target="_blank"><img src="./resources/logo.png" alt="Website" title="Website" width="50px"/></a>
+
 </p>
 
 ## 🛠️ Skills
@@ -62,6 +61,8 @@ Give me a problem to deal with, I'll take care of solving it.
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-00758F.svg?style=flat&logo=MySQL&logoColor=white"/></a>
   &emsp;
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgresql-00758F.svg?style=flat&logo=PostgreSQL&logoColor=white"/></a>
+  &emsp;
     <a href="https://www.mongodb.com/"><img alt="Mongo" src ="https://img.shields.io/badge/Mongo-10AA50.svg?style=flat&logo=Mongodb&logoColor=white"/></a>
   &emsp;
     <a href="https://www.elastic.co/"><img alt="Elasticsearch" src ="https://img.shields.io/badge/Elasticsearch-7DE2D1.svg?style=flat&logo=Elastic&logoColor=black"/></a>
@@ -82,5 +83,3 @@ Give me a problem to deal with, I'll take care of solving it.
     <a href="https://jekyllrb.com/"><img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-D70000?style=flat&logo=Jekyll&logoColor=white"></a>
   &emsp;
 </p>
-
-

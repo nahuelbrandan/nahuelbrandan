@@ -55,63 +55,16 @@ Resolutive. Fortunate. Never stopping learning.<br><br>
 ## 🛠️ Skills
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-3770A0.svg?logo=python&logoColor=white">
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img alt="Django" src="https://img.shields.io/badge/Django%20-36926F.svg?logo=django">
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-3E609E.svg?logo=fastapi">
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C%20-A3B3C6.svg?logo=c&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-00758F.svg?style=flat&logo=MySQL&logoColor=white"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.postgresql.org/">
-    <img alt="PostgreSQL" src ="https://img.shields.io/badge/postgresql-00758F.svg?style=flat&logo=PostgreSQL&logoColor=white"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.mongodb.com/">
-    <img alt="Mongo" src ="https://img.shields.io/badge/Mongo-10AA50.svg?style=flat&logo=Mongodb&logoColor=white"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.elastic.co/">
-    <img alt="Elasticsearch" src ="https://img.shields.io/badge/Elasticsearch-7DE2D1.svg?style=flat&logo=Elastic&logoColor=black"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://redis.io/">
-    <img alt="Redis" src ="https://img.shields.io/badge/Redis-D92B21.svg?style=flat&logo=Redis&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git-scm.com/">
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://en.wikipedia.org/wiki/Linux">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.docker.com/">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-099CEC?style=flat&logo=Docker&logoColor=white">
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://auth0.com/">
-    <img alt="Auth0" src="https://img.shields.io/badge/Auth0-E45123?style=flat&logo=Auth0&logoColor=white">
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://jekyllrb.com/">
-    <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-D70000?style=flat&logo=Jekyll&logoColor=white">
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" alt="Elasticsearch"/>
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker"/>
 </p>

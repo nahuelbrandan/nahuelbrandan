@@ -5,6 +5,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nahuelbrandan&color=blue&style=flat" alt="Profile views"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Developer;Specialized+in+the+Python+ecosystem;Never%20stopping%20learning&center=true&width=500&height=50" alt="bio description">
   </a>
@@ -40,6 +44,12 @@ Resolutive. Fortunate. Never stopping learning.<br><br>
   <a href="https://www.nahuelbrandan.com/" target="_blank">
     <img src="./resources/logo.png" alt="Website" title="Website" width="50px"/>
   </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelbrandan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ## 🛠️ Skills

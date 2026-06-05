@@ -46,12 +46,6 @@ Resolutive. Fortunate. Never stopping learning.<br><br>
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelbrandan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ## 🛠️ Skills
 
 <p align="center">

@@ -23,19 +23,19 @@ Resolutive. Fortunate. Never stopping learning.
 
 <details>
 <summary><strong>Skills</strong></summary>
-<p>&nbsp;</p>
+<br>
 <p><img src="https://skillicons.dev/icons?i=python,django,fastapi,c,mysql,postgresql,mongodb,elasticsearch,redis,git,linux,docker&perline=12" alt="Python, Django, FastAPI, C, MySQL, PostgreSQL, MongoDB, Elasticsearch, Redis, Git, Linux, Docker"></p>
 </details>
 
 <details>
 <summary><strong>GitHub stats</strong></summary>
-<p>&nbsp;</p>
+<br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelbrandan&theme=tokyonight&hide_border=true" alt="GitHub streak"></p>
 </details>
 
 <details>
 <summary><strong>Latest from the blog</strong></summary>
-<p>&nbsp;</p>
+<br>
 <!-- posts:start -->
 <ul>
 <li>2026-06-27 &nbsp;<a href="https://nahuelbrandan.com/article/2026/06/27/errores-comunes-de-comunicacion-en-el-trabajo/">Errores comunes de comunicación escrita en el trabajo</a></li>

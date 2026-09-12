@@ -7,15 +7,14 @@
 <img src="./resources/typing.svg" alt="Backend Software Developer | Specialized in the Python ecosystem | Never stopping learning" height="34">
 
 **Backend Software Developer.**<br>
-Specialized in the Python ecosystem, with more than 7 years of experience.<br>
-Resolutive. Fortunate. Never stopping learning.
 
-<br>
+Specialized in the Python ecosystem, with more than 7 years of experience.<br>
+
+Resolutive. Fortunate. Never stopping learning.
 
 > Give me a problem to deal with, I'll take care of solving it.
 
 <br>
-
 <p>
   <a href="https://linkedin.com/in/nahuelbrandan"><img src="https://i.postimg.cc/15DtHwP7/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nahuelbrandan"><picture><source media="(prefers-color-scheme: dark)" srcset="./resources/github-mark/github-mark-white.png"><img src="./resources/github-mark/github-mark.png" alt="GitHub" title="GitHub" width="40"></picture></a>&nbsp;&nbsp;&nbsp;

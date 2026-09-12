@@ -1,64 +1,42 @@
-![banner](./resources/banner.png)
+<p><img src="./resources/banner.png" alt="Try again. Fail again. Fail better. Python backend developer"></p>
 
-<h1 align="center">Hi there, I'm Nahuel Brandan 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="">
-</h1>
+<a href="https://nahuelbrandan.com"><img src="./resources/logo.png" align="right" width="150" alt="NB"></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nahuelbrandan&color=blue&style=flat" alt="Profile views"/>
+# Nahuel Brandán
+
+<img src="./resources/typing.svg" alt="Backend Software Developer | Specialized in the Python ecosystem | Never stopping learning" height="34">
+
+**Backend Software Developer.**<br>
+Specialized in the Python ecosystem, with more than 7 years of experience.<br>
+Resolutive. Fortunate. Never stopping learning.
+
+> Give me a problem to deal with, I'll take care of solving it.
+
+<p>
+  <a href="https://linkedin.com/in/nahuelbrandan"><img src="https://i.postimg.cc/15DtHwP7/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nahuelbrandan"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./resources/github-mark/github-mark-white.svg">
+    <img src="./resources/github-mark/github-mark.png" alt="GitHub" title="GitHub" width="40">
+  </picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.nahuelbrandan.com/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./resources/website-dark.png">
+    <img src="./resources/website-light.png" alt="Website" title="Website" width="40">
+  </picture></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Developer;Specialized+in+the+Python+ecosystem;Never%20stopping%20learning&center=true&width=500&height=50" alt="bio description">
-  </a>
-</p>
+<details open>
+<summary><strong>Skills</strong></summary>
+<p>&nbsp;</p>
+<p><img src="https://skillicons.dev/icons?i=python,django,fastapi,c,mysql,postgresql,mongodb,elasticsearch,redis,git,linux,docker&perline=6" alt="Python, Django, FastAPI, C, MySQL, PostgreSQL, MongoDB, Elasticsearch, Redis, Git, Linux, Docker"></p>
+</details>
 
-<p align="center" style="font-weight: bold">
-Backend Software Developer.<br><br>
-Specialized in the Python ecosystem, with more than 6 years of experience.<br><br>
-Resolutive. Fortunate. Never stopping learning.<br><br>
-</p>
-
-<hr>
-
-<p align="center" style="font-weight: bold">
-  Give me a problem to deal with, I'll take care of solving it.
-</p>
-
-<hr>
-
-<p align="center">
-  <a href="https://linkedin.com/in/nahuelbrandan" target="_blank">
-    <img src="https://i.postimg.cc/15DtHwP7/linkedin.png" alt="LinkedIn" title="LinkedIn" width="50px"/>
-  </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://github.com/nahuelbrandan" target="_blank">
-     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./resources/github-mark/github-mark-white.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./resources/github-mark/github-mark.svg">
-      <img src="./resources/github-mark/github-mark.png" alt="GitHub" title="GitHub" width="50px">
-    </picture>
-  </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://www.nahuelbrandan.com/" target="_blank">
-    <img src="./resources/logo.png" alt="Website" title="Website" width="50px"/>
-  </a>
-</p>
-
-## 🛠️ Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" alt="Elasticsearch"/>
-  <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker"/>
-</p>
+<details>
+<summary><strong>Latest from the blog</strong> (in Spanish, updated automatically)</summary>
+<!-- posts:start -->
+<ul>
+<li>2026-06-27 &nbsp;<a href="https://nahuelbrandan.com/article/2026/06/27/errores-comunes-de-comunicacion-en-el-trabajo/">Errores comunes de comunicación escrita en el trabajo</a></li>
+<li>2026-06-15 &nbsp;<a href="https://nahuelbrandan.com/article/2026/06/15/deberia-buscar-la-comodidad-de-un-trabajo-seguro/">¿Debería buscar la comodidad de un trabajo seguro?</a></li>
+<li>2026-05-31 &nbsp;<a href="https://nahuelbrandan.com/article/2026/05/31/caracteristicas-de-un-desarrollador-de-software-senior/">Características de un desarrollador senior</a></li>
+</ul>
+<!-- posts:end -->
+</details>

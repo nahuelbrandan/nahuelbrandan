@@ -1,4 +1,4 @@
-<p><img src="./resources/banner.png" alt="Try again. Fail again. Fail better. Python backend developer"></p>
+<p><img src="./resources/banner.webp" alt="Try again. Fail again. Fail better. Python backend developer"></p>
 
 <a href="https://nahuelbrandan.com"><img src="./resources/logo.png" align="right" width="150" alt="NB"></a>
 

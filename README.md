@@ -31,6 +31,12 @@ Resolutive. Fortunate. Never stopping learning.
 </details>
 
 <details>
+<summary><strong>GitHub stats</strong></summary>
+<p>&nbsp;</p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelbrandan&theme=tokyonight&hide_border=true" alt="GitHub streak"></p>
+</details>
+
+<details>
 <summary><strong>Latest from the blog</strong> (in Spanish, updated automatically)</summary>
 <!-- posts:start -->
 <ul>

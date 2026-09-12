@@ -28,10 +28,10 @@ Resolutive. Fortunate. Never stopping learning.
   </picture></a>
 </p>
 
-<details open>
+<details>
 <summary><strong>Skills</strong></summary>
 <p>&nbsp;</p>
-<p><img src="https://skillicons.dev/icons?i=python,django,fastapi,c,mysql,postgresql,mongodb,elasticsearch,redis,git,linux,docker&perline=6" alt="Python, Django, FastAPI, C, MySQL, PostgreSQL, MongoDB, Elasticsearch, Redis, Git, Linux, Docker"></p>
+<p><img src="https://skillicons.dev/icons?i=python,django,fastapi,c,mysql,postgresql,mongodb,elasticsearch,redis,git,linux,docker&perline=12" alt="Python, Django, FastAPI, C, MySQL, PostgreSQL, MongoDB, Elasticsearch, Redis, Git, Linux, Docker"></p>
 </details>
 
 <details>

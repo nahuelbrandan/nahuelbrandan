@@ -34,7 +34,7 @@ Resolutive. Fortunate. Never stopping learning.
 </details>
 
 <details>
-<summary><strong>Latest from the blog</strong> (in Spanish, updated automatically)</summary>
+<summary><strong>Latest from the blog</strong></summary>
 <!-- posts:start -->
 <ul>
 <li>2026-06-27 &nbsp;<a href="https://nahuelbrandan.com/article/2026/06/27/errores-comunes-de-comunicacion-en-el-trabajo/">Errores comunes de comunicación escrita en el trabajo</a></li>

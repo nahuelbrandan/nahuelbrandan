@@ -19,7 +19,7 @@ Resolutive. Fortunate. Never stopping learning.
 <p>
   <a href="https://linkedin.com/in/nahuelbrandan"><img src="https://i.postimg.cc/15DtHwP7/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nahuelbrandan"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./resources/github-mark/github-mark-white.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./resources/github-mark/github-mark-white.png">
     <img src="./resources/github-mark/github-mark.png" alt="GitHub" title="GitHub" width="40">
   </picture></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.nahuelbrandan.com/"><picture>
